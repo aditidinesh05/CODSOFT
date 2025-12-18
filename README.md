@@ -3,6 +3,8 @@
 > *A beginner-friendly yet professional machine learning project built using Google Colab and Python to predict passenger survival on the Titanic.*
 
 ---
+⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/aditidinesh05/Titanic-Survival-Prediction/blob/main/Titanic_Survival_Prediction.ipynb
 )
@@ -39,7 +41,7 @@ Output:
 
 ## 📂 Dataset Information
 
-* **Source:** Kaggle – Titanic Dataset
+* **Source:** Kaggle – Titanic Dataset- Provided by CODSOFT.
 * **Link:** [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 * **Type:** Structured CSV data
 
