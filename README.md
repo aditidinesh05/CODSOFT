@@ -1,176 +1,94 @@
-# 🚢 Titanic Survival Prediction using Machine Learning
+# CODSOFT Data Science Internship 🚀
 
-> *A beginner-friendly yet professional machine learning project built using Google Colab and Python to predict passenger survival on the Titanic.*
-
----
-⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/aditidinesh05/Titanic-Survival-Prediction/blob/main/Titanic_Survival_Prediction.ipynb
-)
-
-
-## 📌 Project Overview
-
-The **Titanic Survival Prediction** project aims to predict whether a passenger survived the Titanic disaster based on personal and travel-related information. This is a classic binary classification problem and is widely used as an introductory machine learning project.
-
-In this project, the complete machine learning workflow is followed:
-
-* Data loading and understanding
-* Data cleaning and preprocessing
-* Feature engineering
-* Model building and evaluation
-* Visualization and interpretation of results
-
-The project is designed to be **simple for beginners**, yet **accurate, well-structured, and visually appealing**.
+Welcome to my **CODSOFT Data Science Internship** repository!  
+This repo showcases the hands-on machine learning projects completed during the internship, focusing on **real-world datasets, data analysis, and predictive modeling using Python**.
 
 ---
 
-## 🧠 Problem Statement
+## 🧠 About the Internship
 
-Given passenger details such as age, gender, ticket class, fare, and family information, build a machine learning model that can predict:
+- **Domain:** Data Science  
+- **Organization:** CODSOFT  
+- **Mode:** Online  
+- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Platform:** Jupyter Notebook / Google Colab  
 
-> **Did the passenger survive the Titanic disaster?**
-
-Output:
-
-* `1` → Survived
-* `0` → Did not survive
-
----
-
-## 📂 Dataset Information
-
-* **Source:** Kaggle – Titanic Dataset- Provided by CODSOFT.
-* **Link:** [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-* **Type:** Structured CSV data
-
-### Key Columns Used:
-
-* `Pclass` – Passenger class
-* `Sex` – Gender
-* `Age` – Age of passenger
-* `Fare` – Ticket fare
-* `SibSp` – Siblings / spouse aboard
-* `Parch` – Parents / children aboard
-* `Embarked` – Port of embarkation
-* `FamilySize` – Engineered feature (SibSp + Parch + 1)
+The internship emphasizes **learning by building**—from raw data to meaningful predictions.
 
 ---
 
-## 🔧 Tools & Technologies Used
+## 📂 Project Structure
 
-* **Python**
-* **Google Colab** (Online notebook environment)
-* **Pandas & NumPy** – Data manipulation
-* **Matplotlib & Seaborn** – Data visualization
-* **Scikit-learn** – Machine learning models & evaluation
-* **GitHub** – Project hosting and version control
+CODSOFT/
+├── Task-1_Titanic-Survival-Prediction
+├── Task-2_Movie-Rating-Prediction
+├── Task-3_Iris-Flower-Classification
+├── Task-4_Sales-Prediction
+├── Task-5_Credit-Card-Fraud-Detection
+└── README.md
 
----
 
-## 🔍 Exploratory Data Analysis (EDA)
 
-The following visual analyses were performed to better understand survival patterns:
-
-* Survival count distribution
-* Survival comparison by gender
-* Survival comparison by passenger class
-* Confusion matrix visualization
-
-These visualizations help in identifying trends such as:
-
-* Higher survival rate among females
-* Higher survival rate in first-class passengers
+Each folder contains:
+- Dataset  
+- Jupyter Notebook  
+- Task-specific explanation  
 
 ---
 
-## ⚙️ Data Preprocessing & Feature Engineering
+## ✅ Tasks Overview
 
-Steps followed:
-
-1. Handling missing values using median and grouped strategies
-2. Encoding categorical variables (`Sex`, `Embarked`)
-3. Creating a new feature `FamilySize`
-4. Selecting the most impactful features for training
-5. Splitting data into training and testing sets
-
-This preprocessing significantly improves model performance.
+### 🔹 Titanic Survival Prediction  
+Predicts passenger survival using classification models.  
+📊 Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
-## 🤖 Model Used
-
-### Random Forest Classifier
-
-* Chosen for better performance on structured data
-* Handles non-linearity and feature importance well
-* Reduces overfitting compared to single decision trees
-
-### Model Configuration:
-
-* Number of trees: 200
-* Max depth: 8
+### 🔹 Movie Rating Prediction  
+Estimates movie ratings using regression techniques and feature analysis.  
+🎬 Dataset: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
 ---
 
-## 📈 Model Performance
-
-* **Accuracy:** ~85% – 90%
-* Evaluation Metrics:
-
-  * Accuracy Score
-  * Precision
-  * Recall
-  * F1-Score
-  * Confusion Matrix
-
-The model performs well in distinguishing survivors and non-survivors.
+### 🔹 Iris Flower Classification  
+Classifies Iris species based on sepal and petal measurements.  
+🌸 Dataset: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 ---
 
-## 📊 Sample Prediction
-
-The model can predict survival for a new passenger based on input features such as:
-
-* Passenger Class
-* Gender
-* Age
-* Fare
-* Family Size
-
-This demonstrates real-world usability of the trained model.
+### 🔹 Sales Prediction  
+Forecasts sales using advertising data and linear regression.  
+📈 Dataset: https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 
 ---
 
-## 🚀 How to Run This Project
-
-1. Click **Open in Colab** (recommended)
-2. Upload the dataset (`train.csv`) if not already available
-3. Run cells sequentially from top to bottom
-
-> ⚠️ If the notebook preview does not load on GitHub, please download the file or open it in Google Colab.
+### 🔹 Credit Card Fraud Detection  
+Detects fraudulent transactions using classification models and imbalance handling techniques.  
+💳 Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## 🌟 Future Improvements
+## 🌟 What I Learned
 
-* Try advanced models like XGBoost or Gradient Boosting
-* Perform hyperparameter tuning for further accuracy
-* Build a simple web app using Streamlit
-* Add cross-validation and ROC curve analysis
-
----
-
-## 👩‍💻 Author
-
-**Aditi Dinesh**
-B.Tech Student | Machine Learning Beginner
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine learning model building  
+- Model evaluation using real metrics  
+- Applying ML to practical business problems  
 
 ---
 
-## 📌 Conclusion
+## 🎥 Project Showcase
 
-This project demonstrates the complete machine learning pipeline in a clear, beginner-friendly manner while achieving strong accuracy and professional presentation. It serves as a solid foundation for learning and further exploration in data science and machine learning.
+A demo video of these projects is shared on **LinkedIn** using  
+`#codsoft #internship #datascience`
 
-⭐ *If you found this project helpful, feel free to star the repository!*
+---
+
+## 🙌 Acknowledgement
+
+Thanks to **CODSOFT** for providing a learning-focused internship that encourages growth, curiosity, and hands-on practice.
+
+⭐ Feel free to star this repository!
+
+DONE BY - ADITI DINESHAN
