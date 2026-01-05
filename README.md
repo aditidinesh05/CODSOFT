@@ -19,7 +19,7 @@ The internship emphasizes **learning by building**—from raw data to meaningful
 
 ## 📂 Project Structure
 
-CODSOFT/
+CODSOFT
 ├── Task-1_Titanic-Survival-Prediction
 ├── Task-2_Movie-Rating-Prediction
 ├── Task-3_Iris-Flower-Classification
