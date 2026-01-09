@@ -147,7 +147,7 @@ A demo video explaining the workflow, model, and results has been shared on **Li
 This project was completed as part of the **CODSOFT Data Science Internship**, which emphasizes hands-on learning, analytical thinking, and real-world applications of data science.
 
 ---
----
+
 
 **Author:** Aditi  Dineshan
 Data Science Intern, CODSOFT
