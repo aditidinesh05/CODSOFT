@@ -5,6 +5,10 @@ The project addresses a real-world problem where **fraud cases are extremely rar
 
 ---
 
+⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lFX7VyUdSyo77tC5nVR7OeE_iC8Z3gc8?usp=sharing)
+
+
 ## 🧠 Project Overview
 
 Credit card fraud detection is a classic **imbalanced classification problem**, where the number of fraudulent transactions is significantly smaller than genuine ones.  
