@@ -34,9 +34,9 @@ This project demonstrates the complete **end-to-end data science workflow**, fro
 ## 📊 Dataset Information
 
 - **Dataset Name:** IMDb Movies India  
-- **Source:** Kaggle  
+- **Source:** Kaggle  (provided by CodSoft)
 - **Dataset Link:**  
-  https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies  
+  https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies 
 
 ### Features Used
 - Genre  
@@ -118,8 +118,14 @@ This project was completed as part of the **CODSOFT Data Science Internship**, w
 
 ---
 
+---
+
+**Author:** Aditi  Dineshan
+Data Science Intern, CODSOFT
+
+
 ⭐ If you found this project useful or interesting, feel free to star the repository!
 
 
-Completed and Done by- Aditi Dineshan
+
 
