@@ -49,7 +49,7 @@ The main objective is not just high accuracy, but achieving **strong precision, 
 - **Dataset Name:** Credit Card Fraud Detection  
 - **Source:** Kaggle  (provided by CodSoft)
 - **Link:**  
- https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ### Dataset Description
 - Contains real credit card transactions made by European cardholders  
