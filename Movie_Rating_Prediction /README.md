@@ -4,6 +4,11 @@ This project is part of the **CODSOFT Data Science Internship** and focuses on b
 
 The aim is to analyze historical movie data and understand the factors that influence movie ratings using data science techniques.
 
+⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iup9MNVQTgZ1ihnQ_KDxBxcGKNhRXm6N?usp=sharing)
+
+
 ---
 
 ## 🧠 Project Overview
