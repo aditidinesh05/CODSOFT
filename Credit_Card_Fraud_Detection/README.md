@@ -47,9 +47,9 @@ The main objective is not just high accuracy, but achieving **strong precision, 
 ## 📊 Dataset Information
 
 - **Dataset Name:** Credit Card Fraud Detection  
-- **Source:** Kaggle  
+- **Source:** Kaggle  (provided by CodSoft)
 - **Link:**  
-  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  
+ https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 
 ### Dataset Description
 - Contains real credit card transactions made by European cardholders  
@@ -126,6 +126,7 @@ This project highlights the importance of **data understanding and metric select
 
 ---
 
+
 ## 🚀 How to Run the Project
 
 1. Open the notebook in **Google Colab**
@@ -147,5 +148,10 @@ A short demo video showcasing this project has been shared on **LinkedIn** as pa
 This project was completed as part of the **CODSOFT Data Science Internship**, which emphasizes practical learning, independent problem-solving, and real-world applications of data science.
 
 ---
+
+👩‍💻 Author
+
+Aditi Dinesh
+B.Tech - OIST | Machine Learning & Data Science Student.
 
 ⭐ If you found this project useful or interesting, feel free to star the repository!
