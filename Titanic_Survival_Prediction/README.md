@@ -5,9 +5,8 @@
 ---
 ⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/aditidinesh05/Titanic-Survival-Prediction/blob/main/Titanic_Survival_Prediction.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1czA112e6bKp0_SMSPez7yKLG2WVr5Aon?usp=sharing)
+
 
 
 ## 📌 Project Overview
