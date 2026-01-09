@@ -46,7 +46,8 @@ In this project, historical advertising data is analyzed and a regression-based 
 ## 📊 Dataset Information
 
 - **Dataset Type:** Advertising / Sales Dataset  
-- **Source:** Kaggle  
+- **Source:** Kaggle
+- - **Link:**https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 - **Features Used:**  
   - TV Advertising Spend  
   - Radio Advertising Spend  
@@ -146,5 +147,10 @@ A demo video explaining the workflow, model, and results has been shared on **Li
 This project was completed as part of the **CODSOFT Data Science Internship**, which emphasizes hands-on learning, analytical thinking, and real-world applications of data science.
 
 ---
+---
+
+**Author:** Aditi  Dineshan
+Data Science Intern, CODSOFT
+
 
 ⭐ If you found this project helpful or interesting, feel free to star the repository!
