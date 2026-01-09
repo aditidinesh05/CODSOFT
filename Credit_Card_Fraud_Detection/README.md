@@ -149,9 +149,10 @@ This project was completed as part of the **CODSOFT Data Science Internship**, w
 
 ---
 
-👩‍💻 Author
+👩‍💻 **Author:**
+Aditi  Dineshan
 
-Aditi Dinesh
-B.Tech - OIST | Machine Learning & Data Science Student.
+Data Science Intern, CODSOFT
+
 
 ⭐ If you found this project useful or interesting, feel free to star the repository!
