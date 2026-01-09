@@ -7,7 +7,6 @@ Sales prediction is a crucial business problem, as it helps organizations plan b
 ---
 
 ⚠️ Note: If the notebook preview does not load on GitHub, please click "Download" or "Open in Colab".
-# 📈 Sales Prediction Using Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EnwkCpkq5hLis3Kjn9Mv-I5A66z-IXgU?usp=sharing)
 
