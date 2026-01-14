@@ -101,6 +101,7 @@ This project highlights the importance of **clean data and structured modeling**
 A demo video of this project has been shared on **LinkedIn** as part of the internship showcase using:  
 `#codsoft #internship #datascience`
 
+Link- https://www.linkedin.com/posts/aditi-dinesh_datascience-machinelearning-codsoft-activity-7417233674368106496-7w6K?utm_source=share&utm_medium=member_android&rcm=ACoAAFNLxl8B9j-vCNkh1KQW2R58JwSXN10KbGk
 ---
 
 ## 🚀 How to Run the Project
