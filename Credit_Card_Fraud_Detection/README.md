@@ -141,6 +141,7 @@ This project highlights the importance of **data understanding and metric select
 A short demo video showcasing this project has been shared on **LinkedIn** as part of the internship submission using:  
 `#codsoft #internship #datascience`
 
+Link- https://www.linkedin.com/posts/aditi-dinesh_whatibuilttoday-datascience-machinelearning-activity-7416835963047301120-ayoK?utm_source=share&utm_medium=member_android&rcm=ACoAAFNLxl8B9j-vCNkh1KQW2R58JwSXN10KbGk
 ---
 
 ## 🙌 Acknowledgement
