@@ -128,6 +128,14 @@ The model performs well in distinguishing survivors and non-survivors.
 
 ---
 
+# 🎥 Project Demonstration
+
+A short demo video showcasing this project has been shared on **LinkedIn** as part of the internship submission using:  
+`#codsoft #internship #datascience`
+
+Link- https://www.linkedin.com/posts/aditi-dinesh_codsoft-machinelearning-datascience-activity-7416001846843990016-scX7?utm_source=share&utm_medium=member_android&rcm=ACoAAFNLxl8B9j-vCNkh1KQW2R58JwSXN10KbGk
+---
+
 ## 📊 Sample Prediction
 
 The model can predict survival for a new passenger based on input features such as:
